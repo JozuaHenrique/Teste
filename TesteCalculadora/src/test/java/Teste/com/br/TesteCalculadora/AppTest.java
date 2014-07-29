@@ -34,9 +34,9 @@ public class AppTest {
 //	}
 //	
 	
-//	@Test
-//	public void testFalho(){
-//		assertEquals(5,app.soma(3, 3));
-//		
-//	}
+	@Test
+	public void testFalho(){
+		assertEquals(5,app.soma(3, 3));
+		
+	}
 }
